@@ -1,0 +1,6 @@
+#	PROGRAMA QUE MUESTRA EN CONSOLA DEL UNO AL 60
+import time
+
+for x in range (1,61):
+	print(x)
+	time.sleep(1)
